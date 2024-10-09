@@ -1,1 +1,1 @@
-* from [//sys/query_tracker/finished_queries] where user="demo_user"
+* from [//sys/query_tracker/finished_queries] where user="webinar_user"
