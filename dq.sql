@@ -1,5 +1,3 @@
-USE ytbench;
-
 SELECT `category`,
         AVG(`price`) as `price_mean`,
         STDDEV(`price`) as `price_standard_deviation` FROM
